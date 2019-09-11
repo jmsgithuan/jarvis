@@ -6,4 +6,5 @@ it is a new text
 上周
 
 class A Class Baby
-track of changes
+track of changes a new way
+my stupid boss still prefers svn;
