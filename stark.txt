@@ -11,3 +11,6 @@ my stupid boss still prefers svn;
 my stupid boss still prefers svn2;
 
 714852963
+public static void main (String[] args){
+  System.out.println("hello git ")
+}
