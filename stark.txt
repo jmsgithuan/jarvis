@@ -5,4 +5,4 @@ it is a new text
 
 上周
 
-class A
+class A Class Baby
